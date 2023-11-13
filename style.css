@@ -1,20 +1,20 @@
 body { 
   background-image: url(https://i.pinimg.com/564x/a6/5b/c0/a65bc044a12e4ae5e4b49fbdcde01b75.jpg);
   font-family: bookman old style;
-  padding: 20px;
+  padding: 20 px;
 } 
 
 h1 { 
   font-family: bookman old style;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 15 px;
 }
 
 .list { 
   width: 80%;
-  background-color: blue;
+  background-color: DarkSeaGreen;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
-  max-width: 500px;
+  padding: 20 px;
+  max-width: 500 px;
 }
